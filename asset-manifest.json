@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kyohei355/portfolio.git/static/css/main.3f541252.css",
-    "main.js": "/Kyohei355/portfolio.git/static/js/main.fa64c994.js",
-    "index.html": "/Kyohei355/portfolio.git/index.html",
-    "main.3f541252.css.map": "/Kyohei355/portfolio.git/static/css/main.3f541252.css.map",
-    "main.fa64c994.js.map": "/Kyohei355/portfolio.git/static/js/main.fa64c994.js.map"
+    "main.css": "/portfolio/static/css/main.3f541252.css",
+    "main.js": "/portfolio/static/js/main.fa64c994.js",
+    "index.html": "/portfolio/index.html",
+    "main.3f541252.css.map": "/portfolio/static/css/main.3f541252.css.map",
+    "main.fa64c994.js.map": "/portfolio/static/js/main.fa64c994.js.map"
   },
   "entrypoints": [
     "static/css/main.3f541252.css",
