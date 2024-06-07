@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kyohei355/portfolio.git/static/css/main.3f541252.css",
+    "main.js": "/Kyohei355/portfolio.git/static/js/main.fa64c994.js",
+    "index.html": "/Kyohei355/portfolio.git/index.html",
+    "main.3f541252.css.map": "/Kyohei355/portfolio.git/static/css/main.3f541252.css.map",
+    "main.fa64c994.js.map": "/Kyohei355/portfolio.git/static/js/main.fa64c994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f541252.css",
+    "static/js/main.fa64c994.js"
+  ]
+}
